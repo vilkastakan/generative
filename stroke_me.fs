@@ -1,7 +1,7 @@
-# "Stroke me" by @vilkastakan
-# video: https://www.instagram.com/tv/CArr9ARgPjb/
-# also used (modified) at https://vlks.tk/n (https://web.archive.org/web/20200527102326/https://vlks.tk/n/)
-# thanks to @serejaris and @buzhba100 for inspiration
+// "Stroke me" by @vilkastakan
+// video: https://www.instagram.com/tv/CArr9ARgPjb/
+// also used (modified) at https://vlks.tk/n (https://web.archive.org/web/20200527102326/https://vlks.tk/n/)
+// thanks to @serejaris and @buzhba100 for inspiration
 
 #ifdef GL_ES
 precision mediump float;
