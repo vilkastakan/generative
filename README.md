@@ -8,7 +8,7 @@ Both parts can be played by [glslViewer](https://github.com/patriciogonzalezvivo
 
 ## localhost:8080
 
-The web-poster series about digital etiquette in Russian.
+The web-poster series about digital life in Russian.
 
 ### async
 
