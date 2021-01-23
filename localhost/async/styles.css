@@ -1,0 +1,54 @@
+@import url('https://rsms.me/inter/inter.css');
+html { font-family: 'Inter', sans-serif; }
+@supports (font-variation-settings: normal) {
+  html { font-family: 'Inter var', sans-serif; }
+}
+
+
+* { margin:0; padding:0; overflow: hidden; cursor: none;} 
+
+
+html, body { width:100%; height:100%; }
+canvas { 
+  display: block;
+}
+
+
+body {
+  margin: 0;
+  padding: 0;
+  font-size: 20px;
+  -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+    -khtml-user-select: none; /* Konqueror HTML */
+    -moz-user-select: none; /* Firefox */
+    -ms-user-select: none; /* Internet Explorer/Edge */
+    user-select: none;
+    background-color: #353535;
+
+
+}
+
+
+.box {
+  padding: 14px;
+  z-index: -1;
+  box-sizing: border-box;
+  position: absolute;
+  max-width: 250px;
+  word-wrap: break-word;
+  margin-bottom: 12px;
+  line-height: 24px;
+  border-radius:10px;
+  color: #F6F6F6;
+  background-color: #1C1C1C;
+}
+
+
+#world {
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  z-index: -1;
+}
