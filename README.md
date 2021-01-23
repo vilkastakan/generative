@@ -1,4 +1,4 @@
-# Generative stuff by Vilka Stakan
+# Art stuff by Vilka Stakan
 
 ### Stroke me
 
