@@ -14,6 +14,6 @@ The web-poster series about digital life in Russian.
 
 `23 Jan 2021`
 
-This work is about asynchronous communication and meta-questions. Kudos to [www.nohello.com](https://www.nohello.com/) and [https://nometa.xyz/](nometa.xyz) and regrets to people that can't understand easy rules for ten years.
+This work is about asynchronous communication and meta-questions. Kudos to [nohello.com](https://www.nohello.com/) and [nometa.xyz](https://nometa.xyz/) and regrets to people that can't understand easy rules.
 
 [See live](https://views-gang.github.io/generative/localhost/async)
